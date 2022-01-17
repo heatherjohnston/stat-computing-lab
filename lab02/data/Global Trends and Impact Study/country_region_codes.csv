@@ -1,0 +1,644 @@
+country,region,iso_code,gid_0,gid_1
+Albania,Tiranë,ALB,ALB,ALB.11_1
+Algeria,Alger,DZA,DZA,DZA.4_1
+Angola,Luanda,AGO,AGO,AGO.11_1
+Antigua,Saint Mary,ATG,ATG,NA
+Argentina,Buenos Aires,ARG,ARG,ARG.1_1
+Argentina,Chaco,ARG,ARG,ARG.3_1
+Argentina,Chubut,ARG,ARG,ARG.4_1
+Argentina,Ciudad Autónoma de Buenos Aires,ARG,ARG,ARG.5_1
+Argentina,Córdoba,ARG,ARG,ARG.6_1
+Argentina,Corrientes,ARG,ARG,ARG.7_1
+Argentina,Entre Ríos,ARG,ARG,ARG.8_1
+Argentina,La Rioja,ARG,ARG,ARG.12_1
+Argentina,Mendoza,ARG,ARG,ARG.13_1
+Argentina,Misiones,ARG,ARG,ARG.14_1
+Argentina,Neuquén,ARG,ARG,ARG.15_1
+Argentina,Río Negro,ARG,ARG,ARG.16_1
+Argentina,Salta,ARG,ARG,ARG.17_1
+Argentina,San Juan,ARG,ARG,ARG.18_1
+Argentina,Santa Cruz,ARG,ARG,ARG.20_1
+Argentina,Santa Fe,ARG,ARG,ARG.21_1
+Argentina,Tucumán,ARG,ARG,ARG.24_1
+Armenia,Erevan,ARM,ARM,ARM.4_1
+Armenia,Shirak,ARM,ARM,ARM.8_1
+Australia,New South Wales,AUS,AUS,AUS.5_1
+Australia,Northern Territory,AUS,AUS,AUS.6_1
+Australia,Queensland,AUS,AUS,AUS.7_1
+Australia,South Australia,AUS,AUS,AUS.8_1
+Australia,Victoria,AUS,AUS,AUS.10_1
+Australia,Western Australia,AUS,AUS,AUS.11_1
+Austria,Niederösterreich,AUT,AUT,AUT.3_1
+Austria,Oberösterreich,AUT,AUT,AUT.4_1
+Austria,Steiermark,AUT,AUT,AUT.6_1
+Austria,Wien,AUT,AUT,AUT.9_1
+Azerbaijan,Baku,AZE,AZE,AZE.1_1
+Bahamas,San Salvador,BHS,BHS,BHS.27_1
+Bahrain,Central,BHR,BHR,BHR.2_1
+Bangladesh,Chittagong,BGD,BGD,BGD.2_1
+Bangladesh,Dhaka,BGD,BGD,BGD.3_1
+Bangladesh,Khulna,BGD,BGD,BGD.4_1
+Bangladesh,Rajasahi,BGD,BGD,BGD.5_1
+Belarus,Minsk,BLR,BLR,BLR.5_1
+Belgium,Bruxelles,BEL,BEL,BEL.1_1
+Belgium,Vlaanderen,BEL,BEL,BEL.2_1
+Belgium,Wallonie,BEL,BEL,BEL.3_1
+Bhutan,Haa,BTN,BTN,BTN.5_1
+Bolivia,Chuquisaca,BOL,BOL,BOL.1_1
+Bolivia,Cochabamba,BOL,BOL,BOL.2_1
+Bolivia,La Paz,BOL,BOL,BOL.4_1
+Bolivia,Oruro,BOL,BOL,BOL.5_1
+Bolivia,Tarija,BOL,BOL,BOL.9_1
+"Bonaire, Sint Eustatius and Saba",Saba,BES,BES,BES.2_1
+Bosnia and Herzegovina,Federacija Bosna i Hercegovina,BIH,BIH,BIH.2_1
+Brazil,Acre,BRA,BRA,BRA.1_1
+Brazil,Alagoas,BRA,BRA,BRA.2_1
+Brazil,Amapá,BRA,BRA,BRA.3_1
+Brazil,Amazonas,BRA,BRA,BRA.4_1
+Brazil,Bahia,BRA,BRA,BRA.5_1
+Brazil,Ceará,BRA,BRA,BRA.6_1
+Brazil,Distrito Federal,BRA,BRA,BRA.7_1
+Brazil,Espírito Santo,BRA,BRA,BRA.8_1
+Brazil,Goiás,BRA,BRA,BRA.9_1
+Brazil,Maranhão,BRA,BRA,BRA.10_1
+Brazil,Mato Grosso,BRA,BRA,BRA.12_1
+Brazil,Mato Grosso do Sul,BRA,BRA,BRA.11_1
+Brazil,Minas Gerais,BRA,BRA,BRA.13_1
+Brazil,Pará,BRA,BRA,BRA.14_1
+Brazil,Paraíba,BRA,BRA,BRA.15_1
+Brazil,Paraná,BRA,BRA,BRA.16_1
+Brazil,Pernambuco,BRA,BRA,BRA.17_1
+Brazil,Piauí,BRA,BRA,BRA.18_1
+Brazil,Rio de Janeiro,BRA,BRA,BRA.19_1
+Brazil,Rio Grande do Norte,BRA,BRA,BRA.20_1
+Brazil,Rio Grande do Sul,BRA,BRA,BRA.21_1
+Brazil,Rondônia,BRA,BRA,BRA.22_1
+Brazil,Santa Catarina,BRA,BRA,BRA.24_1
+Brazil,São Paulo,BRA,BRA,BRA.25_1
+Brazil,Sergipe,BRA,BRA,BRA.26_1
+Brazil,Tocantins,BRA,BRA,BRA.27_1
+British Virgin Islands,Jost Van Dyke,VGB,VGB,VGB.2_1
+Bulgaria,Grad Sofiya,BGR,BGR,BGR.5_1
+Bulgaria,Plovdiv,BGR,BGR,BGR.14_1
+Bulgaria,Sofia,BGR,BGR,BGR.21_1
+Bulgaria,Vidin,BGR,BGR,BGR.26_1
+Burkina Faso,Centre,BFA,BFA,BFA.7_1
+Canada,Alberta,CAN,CAN,CAN.1_1
+Canada,British Columbia,CAN,CAN,CAN.2_1
+Canada,Manitoba,CAN,CAN,CAN.3_1
+Canada,New Brunswick,CAN,CAN,CAN.4_1
+Canada,Newfoundland and Labrador,CAN,CAN,CAN.5_1
+Canada,Nova Scotia,CAN,CAN,CAN.7_1
+Canada,Ontario,CAN,CAN,CAN.9_1
+Canada,Québec,CAN,CAN,CAN.11_1
+Canada,Saskatchewan,CAN,CAN,CAN.12_1
+Central African Republic,Haut-Mbomou,CAF,CAF,CAF.4_1
+Chile,Antofagasta,CHL,CHL,CHL.2_1
+Chile,Araucanía,CHL,CHL,CHL.3_1
+Chile,Bío-Bío,CHL,CHL,CHL.6_1
+Chile,Coquimbo,CHL,CHL,CHL.7_1
+Chile,Libertador General Bernardo O'Higgins,CHL,CHL,CHL.8_1
+Chile,Los Lagos,CHL,CHL,CHL.9_1
+Chile,Maule,CHL,CHL,CHL.12_1
+Chile,Región Metropolitana de Santiago,CHL,CHL,CHL.14_1
+Chile,Valparaíso,CHL,CHL,CHL.16_1
+Colombia,Antioquia,COL,COL,COL.2_1
+Colombia,Atlántico,COL,COL,COL.4_1
+Colombia,"Bogotá, Distrito Capital",COL,COL,COL.14_1
+Colombia,Bolívar,COL,COL,COL.5_1
+Colombia,Boyacá,COL,COL,COL.6_1
+Colombia,Caldas,COL,COL,COL.7_1
+Colombia,Cauca,COL,COL,COL.10_1
+Colombia,Cesar,COL,COL,COL.11_1
+Colombia,Cundinamarca,COL,COL,COL.14_1
+Colombia,Huila,COL,COL,COL.17_1
+Colombia,Magdalena,COL,COL,COL.19_1
+Colombia,Meta,COL,COL,COL.20_1
+Colombia,Nariño,COL,COL,COL.21_1
+Colombia,Norte de Santander,COL,COL,COL.22_1
+Colombia,Quindío,COL,COL,COL.24_1
+Colombia,Risaralda,COL,COL,COL.25_1
+Colombia,San Andrés y Providencia,COL,COL,COL.26_1
+Colombia,Santander,COL,COL,COL.27_1
+Colombia,Tolima,COL,COL,COL.29_1
+Colombia,Valle del Cauca,COL,COL,COL.30_1
+Costa Rica,Alajuela,CRI,CRI,CRI.1_1
+Costa Rica,Cartago,CRI,CRI,CRI.2_1
+Costa Rica,Heredia,CRI,CRI,CRI.4_1
+Costa Rica,Puntarenas,CRI,CRI,CRI.6_1
+Costa Rica,San José,CRI,CRI,CRI.7_1
+Côte d'Ivoire,Autonome d'Abidjan,CIV,CIV,CIV.1_1
+Côte d'Ivoire,Bas-Sassandra,CIV,CIV,CIV.2_1
+Croatia,Grad Zagreb,HRV,HRV,HRV.4_1
+Cuba,Sancti Spíritus,CUB,CUB,CUB.14_1
+Czech Republic,Jihočeský,CZE,CZE,CZE.1_1
+Czech Republic,Jihomoravský,CZE,CZE,CZE.2_1
+Czech Republic,Královéhradecký,CZE,CZE,CZE.5_1
+Czech Republic,Liberecký,CZE,CZE,CZE.6_1
+Czech Republic,Moravskoslezský,CZE,CZE,CZE.7_1
+Czech Republic,Olomoucký,CZE,CZE,CZE.8_1
+Czech Republic,Plzeňský,CZE,CZE,CZE.10_1
+Czech Republic,Prague,CZE,CZE,CZE.11_1
+Czech Republic,Středočeský,CZE,CZE,CZE.12_1
+Czech Republic,Ústecký,CZE,CZE,CZE.13_1
+Denmark,Hovedstaden,DNK,DNK,DNK.1_1
+Denmark,Midtjylland,DNK,DNK,DNK.2_1
+Denmark,Nordjylland,DNK,DNK,DNK.3_1
+Denmark,Sjælland,DNK,DNK,DNK.4_1
+Denmark,Syddanmark,DNK,DNK,DNK.5_1
+Dominica,Saint David,DMA,DMA,DMA.2_1
+Dominican Republic,Distrito Nacional,DOM,DOM,DOM.5_1
+Dominican Republic,Santiago,DOM,DOM,DOM.30_1
+Dominican Republic,Santo Domingo,DOM,DOM,DOM.31_1
+Ecuador,Azuay,ECU,ECU,ECU.1_1
+Ecuador,El Oro,ECU,ECU,ECU.7_1
+Ecuador,Guayas,ECU,ECU,ECU.10_1
+Ecuador,Manabi,ECU,ECU,ECU.14_1
+Ecuador,Pichincha,ECU,ECU,ECU.19_1
+Ecuador,Tungurahua,ECU,ECU,ECU.23_1
+Ecuador,Zamora Chinchipe,ECU,ECU,ECU.24_1
+Egypt,Ad Daqahliyah,EGY,EGY,EGY.1_1
+Egypt,Al Buhayrah,EGY,EGY,EGY.3_1
+Egypt,Al Gharbiyah,EGY,EGY,EGY.5_1
+Egypt,Al Iskandariyah,EGY,EGY,EGY.6_1
+Egypt,Al Jizah,EGY,EGY,EGY.8_1
+Egypt,Al Minufiyah,EGY,EGY,EGY.9_1
+Egypt,Al Minya,EGY,EGY,EGY.10_1
+Egypt,Al Qahirah,EGY,EGY,EGY.11_1
+Egypt,Al Qalyubiyah,EGY,EGY,EGY.12_1
+Egypt,Ash Sharqiyah,EGY,EGY,EGY.16_1
+Egypt,Asyut,EGY,EGY,EGY.18_1
+Egypt,Suhaj,EGY,EGY,EGY.27_1
+El Salvador,La Libertad,SLV,SLV,SLV.5_1
+El Salvador,San Miguel,SLV,SLV,SLV.9_1
+El Salvador,Santa Ana,SLV,SLV,SLV.12_1
+El Salvador,Sonsonate,SLV,SLV,SLV.13_1
+Equatorial Guinea,Bioko Sur,GNQ,GNQ,GNQ.3_1
+Estonia,Võru,EST,EST,EST.16_1
+Ethiopia,Addis Abeba,ETH,ETH,ETH.1_1
+Faroe Islands,Suðuroyar,FRO,FRO,FRO.5_1
+Finland,Pirkanmaa,FIN,FIN,FIN.5_1
+Finland,Uusimaa,FIN,FIN,FIN.4_1
+Finland,Varsinais-Suomi,FIN,FIN,FIN.5_1
+France,Auvergne-Rhône-Alpes,FRA,FRA,FRA.1_1
+France,Bourgogne-Franche-Comté,FRA,FRA,FRA.2_1
+France,Bretagne,FRA,FRA,FRA.3_1
+France,Centre-Val de Loire,FRA,FRA,FRA.4_1
+France,Grand Est,FRA,FRA,FRA.6_1
+France,Hauts-de-France,FRA,FRA,FRA.7_1
+France,Île-de-France,FRA,FRA,FRA.8_1
+France,Normandie,FRA,FRA,FRA.9_1
+France,Nouvelle-Aquitaine,FRA,FRA,FRA.10_1
+France,Occitanie,FRA,FRA,FRA.11_1
+France,Pays de la Loire,FRA,FRA,FRA.12_1
+France,Provence-Alpes-Côte d'Azur,FRA,FRA,FRA.13_1
+Gabon,Nyanga,GAB,GAB,GAB.5_1
+Georgia,Racha-Lechkhumi-Kvemo Svaneti,GEO,GEO,GEO.8_1
+Germany,Baden-Württemberg,DEU,DEU,DEU.1_1
+Germany,Bayern,DEU,DEU,DEU.2_1
+Germany,Berlin,DEU,DEU,DEU.3_1
+Germany,Brandenburg,DEU,DEU,DEU.4_1
+Germany,Bremen,DEU,DEU,DEU.5_1
+Germany,Hamburg,DEU,DEU,DEU.6_1
+Germany,Hessen,DEU,DEU,DEU.7_1
+Germany,Mecklenburg-Vorpommern,DEU,DEU,DEU.8_1
+Germany,Niedersachsen,DEU,DEU,DEU.9_1
+Germany,Nordrhein-Westfalen,DEU,DEU,DEU.10_1
+Germany,Rheinland-Pfalz,DEU,DEU,DEU.11_1
+Germany,Saarland,DEU,DEU,DEU.12_1
+Germany,Sachsen,DEU,DEU,DEU.14_1
+Germany,Sachsen-Anhalt,DEU,DEU,DEU.13_1
+Germany,Schleswig-Holstein,DEU,DEU,DEU.15_1
+Germany,Thüringen,DEU,DEU,DEU.16_1
+Ghana,Greater Accra,GHA,GHA,GHA.5_1
+Ghana,North East,GHA,GHA,GHA.6_1
+Greece,Attiki,GRC,GRC,GRC.3_1
+Greece,Kentriki Makedonia,GRC,GRC,GRC.6_1
+Greece,Kriti,GRC,GRC,GRC.4_1
+Grenada,Carriacou,GRD,GRD,GRD.1_1
+Guam,Dededo,GUM,GUM,GUM.6_1
+Guatemala,Chimaltenango,GTM,GTM,GTM.3_1
+Guatemala,Guatemala,GTM,GTM,GTM.7_1
+Guatemala,Quezaltenango,GTM,GTM,GTM.13_1
+Guyana,Barima-Waini,GUY,GUY,GUY.1_1
+Honduras,Cortés,HND,HND,HND.6_1
+Honduras,Francisco Morazán,HND,HND,HND.8_1
+Hong Kong,North,HKG,HKG,HKG.7_1
+Hungary,Bács-Kiskun,HUN,HUN,HUN.1_1
+Hungary,Baranya,HUN,HUN,HUN.2_1
+Hungary,Békés,HUN,HUN,HUN.3_1
+Hungary,Borsod-Abaúj-Zemplén,HUN,HUN,HUN.4_1
+Hungary,Budapest,HUN,HUN,HUN.5_1
+Hungary,Csongrád,HUN,HUN,HUN.6_1
+Hungary,Fejér,HUN,HUN,HUN.7_1
+Hungary,Gyor-Moson-Sopron,HUN,HUN,HUN.8_1
+Hungary,Hajdú-Bihar,HUN,HUN,HUN.9_1
+Hungary,Heves,HUN,HUN,HUN.10_1
+Hungary,Jász-Nagykun-Szolnok,HUN,HUN,HUN.11_1
+Hungary,Komárom-Esztergom,HUN,HUN,HUN.12_1
+Hungary,Pest,HUN,HUN,HUN.14_1
+Hungary,Somogy,HUN,HUN,HUN.15_1
+Hungary,Szabolcs-Szatmár-Bereg,HUN,HUN,HUN.16_1
+Hungary,Tolna,HUN,HUN,HUN.17_1
+Hungary,Vas,HUN,HUN,HUN.18_1
+Hungary,Veszprém,HUN,HUN,HUN.19_1
+Hungary,Zala,HUN,HUN,HUN.20_1
+India,Andhra Pradesh,IND,IND,IND.2_1
+India,Assam,IND,IND,IND.4_1
+India,Bihar,IND,IND,IND.5_1
+India,Chhattisgarh,IND,IND,IND.7_1
+India,Gujarat,IND,IND,IND.11_1
+India,Haryana,IND,IND,IND.12_1
+India,Himachal Pradesh,IND,IND,IND.13_1
+India,Jharkhand,IND,IND,IND.15_1
+India,Karnataka,IND,IND,IND.16_1
+India,Kerala,IND,IND,IND.17_1
+India,Madhya Pradesh,IND,IND,IND.19_1
+India,Maharashtra,IND,IND,IND.20_1
+India,NCT of Delhi,IND,IND,IND.25_1
+India,Odisha,IND,IND,IND.26_1
+India,Punjab,IND,IND,IND.28_1
+India,Rajasthan,IND,IND,IND.29_1
+India,Tamil Nadu,IND,IND,IND.31_1
+India,Telangana,IND,IND,IND.32_1
+India,Uttar Pradesh,IND,IND,IND.34_1
+India,Uttarakhand,IND,IND,IND.35_1
+India,West Bengal,IND,IND,IND.36_1
+Indonesia,Bali,IDN,IDN,IDN.2_1
+Indonesia,Banten,IDN,IDN,IDN.4_1
+Indonesia,Jakarta Raya,IDN,IDN,IDN.7_1
+Indonesia,Jambi,IDN,IDN,IDN.8_1
+Indonesia,Jawa Barat,IDN,IDN,IDN.9_1
+Indonesia,Jawa Tengah,IDN,IDN,IDN.10_1
+Indonesia,Jawa Timur,IDN,IDN,IDN.11_1
+Indonesia,Kalimantan Barat,IDN,IDN,IDN.12_1
+Indonesia,Kalimantan Selatan,IDN,IDN,IDN.13_1
+Indonesia,Kalimantan Timur,IDN,IDN,IDN.15_1
+Indonesia,Kepulauan Riau,IDN,IDN,IDN.16_1
+Indonesia,Lampung,IDN,IDN,IDN.17_1
+Indonesia,Nusa Tenggara Barat,IDN,IDN,IDN.20_1
+Indonesia,Nusa Tenggara Timur,IDN,IDN,IDN.21_1
+Indonesia,Riau,IDN,IDN,IDN.24_1
+Indonesia,Sulawesi Selatan,IDN,IDN,IDN.26_1
+Indonesia,Sulawesi Utara,IDN,IDN,IDN.29_1
+Indonesia,Sumatera Barat,IDN,IDN,IDN.30_1
+Indonesia,Sumatera Selatan,IDN,IDN,IDN.31_1
+Indonesia,Sumatera Utara,IDN,IDN,IDN.32_1
+Indonesia,Yogyakarta,IDN,IDN,IDN.33_1
+Iraq,Baghdad,IRQ,IRQ,IRQ.10_1
+Iraq,Najaf,IRQ,IRQ,IRQ.5_1
+Ireland,Cork,IRL,IRL,IRL.4_1
+Ireland,Dublin,IRL,IRL,IRL.6_1
+Isle Of Man,Rushen,IMN,IMN,NA
+Israel,HaDarom,ISR,ISR,ISR.2_1
+Israel,Haifa,ISR,ISR,ISR.3_1
+Israel,HaMerkaz,ISR,ISR,ISR.4_1
+Israel,HaZafon,ISR,ISR,ISR.5_1
+Israel,Jerusalem,ISR,ISR,ISR.6_1
+Israel,Tel Aviv,ISR,ISR,ISR.7_1
+Italy,Abruzzo,ITA,ITA,ITA.1_1
+Italy,Calabria,ITA,ITA,ITA.4_1
+Italy,Campania,ITA,ITA,ITA.5_1
+Italy,Emilia-Romagna,ITA,ITA,ITA.6_1
+Italy,Friuli-Venezia Giulia,ITA,ITA,ITA.7_1
+Italy,Lazio,ITA,ITA,ITA.8_1
+Italy,Liguria,ITA,ITA,ITA.9_1
+Italy,Lombardia,ITA,ITA,ITA.10_1
+Italy,Marche,ITA,ITA,ITA.11_1
+Italy,Piemonte,ITA,ITA,ITA.13_1
+Italy,Puglia,ITA,ITA,NA
+Italy,Sardegna,ITA,ITA,ITA.14_1
+Italy,Sicilia,ITA,ITA,ITA.15_1
+Italy,Toscana,ITA,ITA,ITA.16_1
+Italy,Trentino-Alto Adige,ITA,ITA,ITA.17_1
+Italy,Umbria,ITA,ITA,ITA.18_1
+Italy,Veneto,ITA,ITA,ITA.20_1
+Jamaica,Saint Ann,JAM,JAM,JAM.7_1
+Japan,Aichi,JPN,JPN,JPN.1_1
+Japan,Chiba,JPN,JPN,JPN.4_1
+Japan,Fukuoka,JPN,JPN,JPN.7_1
+Japan,Fukushima,JPN,JPN,JPN.8_1
+Japan,Gifu,JPN,JPN,JPN.9_1
+Japan,Gunma,JPN,JPN,JPN.10_1
+Japan,Hiroshima,JPN,JPN,JPN.11_1
+Japan,Hokkaido,JPN,JPN,JPN.12_1
+Japan,Hyōgo,JPN,JPN,JPN.13_1
+Japan,Ibaraki,JPN,JPN,JPN.14_1
+Japan,Kagawa,JPN,JPN,JPN.17_1
+Japan,Kanagawa,JPN,JPN,JPN.19_1
+Japan,Kumamoto,JPN,JPN,JPN.21_1
+Japan,Kyoto,JPN,JPN,JPN.22_1
+Japan,Mie,JPN,JPN,JPN.23_1
+Japan,Miyagi,JPN,JPN,JPN.24_1
+Japan,Nagano,JPN,JPN,JPN.26_1
+Japan,Nara,JPN,JPN,JPN.28_1
+Japan,Niigata,JPN,JPN,JPN.29_1
+Japan,Okayama,JPN,JPN,JPN.31_1
+Japan,Okinawa,JPN,JPN,JPN.32_1
+Japan,Osaka,JPN,JPN,JPN.33_1
+Japan,Saitama,JPN,JPN,JPN.35_1
+Japan,Shizuoka,JPN,JPN,JPN.38_1
+Japan,Tochigi,JPN,JPN,JPN.39_1
+Japan,Tokyo,JPN,JPN,JPN.41_1
+Japan,Yamaguchi,JPN,JPN,JPN.46_1
+Jersey,Saint Lawrence,JEY,JEY,JEY.6_1
+Jordan,Amman,JOR,JOR,JOR.2_1
+Jordan,Irbid,JOR,JOR,JOR.5_1
+Jordan,Zarqa,JOR,JOR,JOR.12_1
+Kazakhstan,Almaty,KAZ,KAZ,KAZ.1_1
+Kenya,Nairobi,KEN,KEN,KEN.30_1
+Kuwait,Hawalli,KWT,KWT,KWT.5_1
+Kyrgyzstan,Biškek,KGZ,KGZ,KGZ.2_1
+Laos,Houaphan,LAO,LAO,LAO.5_1
+Latvia,Latgale,LVA,LVA,LVA.2_1
+Libya,Benghazi,LBY,LBY,LBY.12_1
+Libya,Tripoli,LBY,LBY,LBY.20_1
+Madagascar,Menabe,MDG,MDG,MDG.6_1
+Malaysia,Johor,MYS,MYS,MYS.1_1
+Malaysia,Kuala Lumpur,MYS,MYS,MYS.4_1
+Malaysia,Perak,MYS,MYS,MYS.9_1
+Malaysia,Pulau Pinang,MYS,MYS,MYS.11_1
+Malaysia,Sabah,MYS,MYS,MYS.13_1
+Malaysia,Sarawak,MYS,MYS,MYS.14_1
+Malaysia,Selangor,MYS,MYS,MYS.15_1
+Mexico,Aguascalientes,MEX,MEX,MEX.1_1
+Mexico,Baja California,MEX,MEX,MEX.3_1
+Mexico,Baja California Sur,MEX,MEX,MEX.2_1
+Mexico,Campeche,MEX,MEX,MEX.4_1
+Mexico,Chiapas,MEX,MEX,MEX.5_1
+Mexico,Chihuahua,MEX,MEX,MEX.6_1
+Mexico,Coahuila,MEX,MEX,MEX.7_1
+Mexico,Colima,MEX,MEX,MEX.8_1
+Mexico,Durango,MEX,MEX,MEX.10_1
+Mexico,Guanajuato,MEX,MEX,MEX.11_1
+Mexico,Guerrero,MEX,MEX,MEX.12_1
+Mexico,Hidalgo,MEX,MEX,MEX.13_1
+Mexico,Jalisco,MEX,MEX,MEX.14_1
+Mexico,México,MEX,MEX,MEX.15_1
+Mexico,Michoacán,MEX,MEX,MEX.16_1
+Mexico,Morelos,MEX,MEX,MEX.17_1
+Mexico,Nayarit,MEX,MEX,MEX.18_1
+Mexico,Nuevo León,MEX,MEX,MEX.19_1
+Mexico,Oaxaca,MEX,MEX,MEX.20_1
+Mexico,Puebla,MEX,MEX,MEX.21_1
+Mexico,Querétaro,MEX,MEX,MEX.22_1
+Mexico,Quintana Roo,MEX,MEX,MEX.23_1
+Mexico,San Luis Potosí,MEX,MEX,MEX.24_1
+Mexico,Sinaloa,MEX,MEX,MEX.25_1
+Mexico,Sonora,MEX,MEX,MEX.26_1
+Mexico,Tabasco,MEX,MEX,MEX.27_1
+Mexico,Tamaulipas,MEX,MEX,MEX.28_1
+Mexico,Tlaxcala,MEX,MEX,MEX.29_1
+Mexico,Veracruz,MEX,MEX,MEX.30_1
+Mexico,Yucatán,MEX,MEX,MEX.31_1
+Mexico,Zacatecas,MEX,MEX,MEX.32_1
+Moldova,Chişinău,MDA,MDA,MDA.10_1
+Mongolia,Selenge,MNG,MNG,MNG.18_1
+Morocco,Casablanca-Settat,MAR,MAR,NA
+Morocco,Fès-Meknès,MAR,MAR,NA
+Morocco,Marrakesh-Safi,MAR,MAR,MAR.8_1
+Morocco,Rabat-Salé-Kénitra,MAR,MAR,NA
+Morocco,Tanger-Tetouan-Al Hoceima,MAR,MAR,NA
+Mozambique,Gaza,MOZ,MOZ,MOZ.2_1
+Myanmar,Mandalay,MMR,MMR,MMR.8_1
+Myanmar,Yangon,MMR,MMR,MMR.15_1
+Nepal,Bagmati Pradesh,NPL,NPL,NPL.1_1
+Nepal,Province No. 1,NPL,NPL,NPL.2_1
+Nepal,Province No. 5,NPL,NPL,NPL.4_1
+Netherlands,Friesland,NLD,NLD,NLD.3_1
+Netherlands,Gelderland,NLD,NLD,NLD.4_1
+Netherlands,Groningen,NLD,NLD,NLD.5_1
+Netherlands,Limburg,NLD,NLD,NLD.7_1
+Netherlands,Noord-Brabant,NLD,NLD,NLD.8_1
+Netherlands,Noord-Holland,NLD,NLD,NLD.9_1
+Netherlands,Overijssel,NLD,NLD,NLD.10_1
+Netherlands,Utrecht,NLD,NLD,NLD.11_1
+Netherlands,Zuid-Holland,NLD,NLD,NLD.14_1
+New Zealand,Auckland,NZL,NZL,NZL.1_1
+New Zealand,Canterbury,NZL,NZL,NZL.3_1
+New Zealand,Waikato,NZL,NZL,NZL.17_1
+New Zealand,Wellington,NZL,NZL,NZL.18_1
+Nicaragua,León,NIC,NIC,NIC.11_1
+Nicaragua,Managua,NIC,NIC,NIC.13_1
+Nigeria,Federal Capital Territory,NGA,NGA,NGA.15_1
+Nigeria,Lagos,NGA,NGA,NGA.25_1
+Nigeria,Niger,NGA,NGA,NGA.27_1
+Nigeria,Taraba,NGA,NGA,NGA.35_1
+Norway,Innlandet,NOR,NOR,NA
+Norway,Møre og Romsdal,NOR,NOR,NOR.8_1
+Norway,Oslo,NOR,NOR,NOR.12_1
+Norway,Rogaland,NOR,NOR,NOR.13_1
+Norway,Trøndelag,NOR,NOR,NA
+Norway,Vestfold og Telemark,NOR,NOR,NA
+Norway,Vestland,NOR,NOR,NA
+Norway,Viken,NOR,NOR,NA
+Oman,Ash Sharqiyah South,OMN,OMN,OMN.8_1
+Pakistan,ICT (Islamabad Capital Territory),PAK,PAK,NA
+Pakistan,KPK (Khyber Pakhtunkhwa),PAK,PAK,NA
+Pakistan,PB (Punjab),PAK,PAK,PAK.7_1
+Pakistan,SD (Sindh),PAK,PAK,NA
+Palau,Peleliu,PLW,PLW,PLW.15_1
+Palestine,West Bank,PSE,PSE,NA
+Panama,Panamá,PAN,PAN,PAN.12_1
+Paraguay,Alto Paraná,PRY,PRY,PRY.2_1
+Paraguay,Asunción,PRY,PRY,PRY.4_1
+Peru,Ancash,PER,PER,PER.2_1
+Peru,Arequipa,PER,PER,PER.4_1
+Peru,Callao,PER,PER,PER.7_1
+Peru,Cusco,PER,PER,PER.8_1
+Peru,Ica,PER,PER,PER.11_1
+Peru,Junín,PER,PER,PER.12_1
+Peru,Lambayeque,PER,PER,PER.14_1
+Peru,Lima,PER,PER,PER.16_1
+Peru,Piura,PER,PER,PER.21_1
+Philippines,Calabarzon,PHL,PHL,NA
+Philippines,Central Luzon,PHL,PHL,NA
+Philippines,Central Visayas,PHL,PHL,NA
+Philippines,Davao Region,PHL,PHL,NA
+Philippines,National Capital Region,PHL,PHL,NA
+Philippines,Northern Mindanao,PHL,PHL,NA
+Philippines,Western Visayas,PHL,PHL,NA
+Poland,Dolnośląskie,POL,POL,POL.1_1
+Poland,Kujawsko-Pomorskie,POL,POL,POL.2_1
+Poland,Łódzkie,POL,POL,POL.3_1
+Poland,Lubelskie,POL,POL,POL.4_1
+Poland,Lubuskie,POL,POL,POL.5_1
+Poland,Małopolskie,POL,POL,POL.6_1
+Poland,Mazowieckie,POL,POL,POL.7_1
+Poland,Podkarpackie,POL,POL,POL.9_1
+Poland,Pomorskie,POL,POL,POL.11_1
+Poland,Śląskie,POL,POL,POL.12_1
+Poland,Warmińsko-Mazurskie,POL,POL,POL.14_1
+Poland,Wielkopolskie,POL,POL,POL.15_1
+Poland,Zachodniopomorskie,POL,POL,POL.16_1
+Portugal,Aveiro,PRT,PRT,PRT.1_1
+Portugal,Braga,PRT,PRT,PRT.4_1
+Portugal,Coimbra,PRT,PRT,PRT.7_1
+Portugal,Faro,PRT,PRT,PRT.9_1
+Portugal,Leiria,PRT,PRT,PRT.11_1
+Portugal,Lisboa,PRT,PRT,PRT.12_1
+Portugal,Porto,PRT,PRT,PRT.15_1
+Portugal,Santarém,PRT,PRT,PRT.16_1
+Portugal,Setúbal,PRT,PRT,PRT.17_1
+"Puerto Rico, U.S.",Arecibo,PRI,PRI,NA
+"Puerto Rico, U.S.",Bayamón,PRI,PRI,NA
+"Puerto Rico, U.S.",Hatillo,PRI,PRI,NA
+"Puerto Rico, U.S.",Morovis,PRI,PRI,NA
+"Puerto Rico, U.S.",Toa Alta,PRI,PRI,NA
+Qatar,Al Doha,QAT,QAT,QAT.1_1
+Réunion,Saint-Denis,REU,REU,NA
+Romania,Arad,ROU,ROU,ROU.2_1
+Romania,Argeș,ROU,ROU,ROU.3_1
+Romania,Bacău,ROU,ROU,ROU.4_1
+Romania,Bihor,ROU,ROU,ROU.5_1
+Romania,Brașov,ROU,ROU,ROU.8_1
+Romania,Bucharest,ROU,ROU,ROU.10_1
+Romania,Cluj,ROU,ROU,ROU.14_1
+Romania,Constanța,ROU,ROU,ROU.15_1
+Romania,Dolj,ROU,ROU,ROU.18_1
+Romania,Galați,ROU,ROU,ROU.19_1
+Romania,Hunedoara,ROU,ROU,ROU.23_1
+Romania,Iași,ROU,ROU,ROU.24_1
+Romania,Maramureș,ROU,ROU,ROU.27_1
+Romania,Mureș,ROU,ROU,ROU.29_1
+Romania,Prahova,ROU,ROU,ROU.32_1
+Romania,Sibiu,ROU,ROU,ROU.35_1
+Romania,Suceava,ROU,ROU,ROU.36_1
+Romania,Timiș,ROU,ROU,ROU.38_1
+Russia,Kursk Oblast,RUS,RUS,RUS.37_1
+Russia,Moscow,RUS,RUS,RUS.43_1
+Russia,Moscow Oblast,RUS,RUS,RUS.44_1
+Russia,Saint Petersburg,RUS,RUS,RUS.14_1
+Russia,Voronezh Oblast,RUS,RUS,RUS.79_1
+Saudi Arabia,Ar Riyad,SAU,SAU,SAU.7_1
+Saudi Arabia,Makkah,SAU,SAU,SAU.11_1
+Serbia,Grad Beograd,SRB,SRB,SRB.3_1
+Seychelles,Les Mamelles,SYC,SYC,SYC.17_1
+Singapore,East,SGP,SGP,SGP.2_1
+Singapore,West,SGP,SGP,SGP.5_1
+Slovakia,Bratislavský,SVK,SVK,SVK.2_1
+Slovakia,Nitriansky,SVK,SVK,SVK.4_1
+Slovenia,Osrednjeslovenska,SVN,SVN,SVN.7_1
+South Africa,Eastern Cape,ZAF,ZAF,ZAF.1_1
+South Africa,Free State,ZAF,ZAF,ZAF.2_1
+South Africa,Gauteng,ZAF,ZAF,ZAF.3_1
+South Africa,KwaZulu-Natal,ZAF,ZAF,ZAF.4_1
+South Africa,Mpumalanga,ZAF,ZAF,ZAF.6_1
+South Africa,North West,ZAF,ZAF,ZAF.7_1
+South Africa,Western Cape,ZAF,ZAF,ZAF.9_1
+South Korea,Gyeonggi-do,KOR,KOR,KOR.8_1
+South Korea,Incheon,KOR,KOR,KOR.11_1
+South Korea,Seoul,KOR,KOR,KOR.16_1
+South Sudan,Central Equatoria,SSD,SSD,SSD.1_1
+Spain,Andalucía,ESP,ESP,ESP.1_1
+Spain,Aragón,ESP,ESP,ESP.2_1
+Spain,Cantabria,ESP,ESP,ESP.3_1
+Spain,Castilla y León,ESP,ESP,ESP.5_1
+Spain,Castilla-La Mancha,ESP,ESP,ESP.4_1
+Spain,Cataluña,ESP,ESP,ESP.6_1
+Spain,Comunidad de Madrid,ESP,ESP,ESP.8_1
+Spain,Comunidad Valenciana,ESP,ESP,ESP.10_1
+Spain,Extremadura,ESP,ESP,ESP.11_1
+Spain,Galicia,ESP,ESP,ESP.12_1
+Spain,Islas Baleares,ESP,ESP,ESP.13_1
+Spain,Islas Canarias,ESP,ESP,ESP.14_1
+Spain,País Vasco,ESP,ESP,ESP.16_1
+Spain,Principado de Asturias,ESP,ESP,ESP.17_1
+Spain,Región de Murcia,ESP,ESP,ESP.18_1
+Sri Lanka,Colombo,LKA,LKA,LKA.5_1
+Sri Lanka,Kegalle,LKA,LKA,LKA.12_1
+Sri Lanka,Puttalam,LKA,LKA,LKA.22_1
+Sudan,Khartoum,SDN,SDN,SDN.7_1
+Suriname,Sipaliwini,SUR,SUR,SUR.9_1
+Sweden,Dalarna,SWE,SWE,SWE.2_1
+Sweden,Gävleborg,SWE,SWE,SWE.3_1
+Sweden,Halland,SWE,SWE,SWE.5_1
+Sweden,Jönköping,SWE,SWE,SWE.7_1
+Sweden,Kalmar,SWE,SWE,SWE.8_1
+Sweden,Norrbotten,SWE,SWE,SWE.10_1
+Sweden,Orebro,SWE,SWE,SWE.11_1
+Sweden,Östergötland,SWE,SWE,SWE.12_1
+Sweden,Skåne,SWE,SWE,SWE.13_1
+Sweden,Södermanland,SWE,SWE,SWE.14_1
+Sweden,Stockholm,SWE,SWE,SWE.15_1
+Sweden,Uppsala,SWE,SWE,SWE.16_1
+Sweden,Värmland,SWE,SWE,SWE.17_1
+Sweden,Västerbotten,SWE,SWE,SWE.18_1
+Sweden,Västernorrland,SWE,SWE,SWE.19_1
+Sweden,Västmanland,SWE,SWE,SWE.20_1
+Sweden,Västra Götaland,SWE,SWE,SWE.21_1
+Switzerland,Bern,CHE,CHE,CHE.6_1
+Switzerland,Solothurn,CHE,CHE,CHE.19_1
+Switzerland,Vaud,CHE,CHE,CHE.24_1
+Switzerland,Zürich,CHE,CHE,CHE.26_1
+Taiwan,Changhua County,TWN,TWN,NA
+Taiwan,Hsinchu City,TWN,TWN,NA
+Taiwan,Kaohsiung City,TWN,TWN,TWN.2_1
+Taiwan,New Taipei City,TWN,TWN,TWN.3_1
+Taiwan,Taichung City,TWN,TWN,TWN.4_1
+Taiwan,Tainan City,TWN,TWN,TWN.5_1
+Taiwan,Taipei City,TWN,TWN,TWN.6_1
+Taiwan,Taoyuan City,TWN,TWN,NA
+Tajikistan,Leninabad,TJK,TJK,TJK.4_1
+Tanzania,Mtwara,TZA,TZA,TZA.15_1
+Thailand,Bangkok Metropolis,THA,THA,THA.3_1
+Thailand,Chiang Mai,THA,THA,THA.10_1
+Thailand,Chon Buri,THA,THA,THA.12_1
+Thailand,Khon Kaen,THA,THA,THA.17_1
+Thailand,Nakhon Ratchasima,THA,THA,THA.29_1
+Thailand,Nonthaburi,THA,THA,THA.36_1
+Thailand,Pathum Thani,THA,THA,THA.37_1
+Thailand,Samut Prakan,THA,THA,THA.57_1
+Thailand,Songkhla,THA,THA,THA.64_1
+Tunisia,Ariana,TUN,TUN,TUN.1_1
+Tunisia,Tunis,TUN,TUN,TUN.23_1
+Turkey,Adana,TUR,TUR,TUR.1_1
+Turkey,Ankara,TUR,TUR,TUR.7_1
+Turkey,Antalya,TUR,TUR,TUR.8_1
+Turkey,Bursa,TUR,TUR,TUR.21_1
+Turkey,Gaziantep,TUR,TUR,TUR.33_1
+Turkey,Hatay,TUR,TUR,TUR.37_1
+Turkey,Istanbul,TUR,TUR,TUR.40_1
+Turkey,Izmir,TUR,TUR,TUR.41_1
+Turkey,Kocaeli,TUR,TUR,TUR.52_1
+Turkey,Konya,TUR,TUR,TUR.53_1
+Turkey,Mersin,TUR,TUR,TUR.58_1
+Turkey,Nigde,TUR,TUR,TUR.62_1
+Ukraine,Dnipropetrovs'k,UKR,UKR,UKR.5_1
+Ukraine,Donets'k,UKR,UKR,UKR.6_1
+Ukraine,Kharkiv,UKR,UKR,UKR.8_1
+Ukraine,Kherson,UKR,UKR,UKR.9_1
+Ukraine,Kiev,UKR,UKR,UKR.12_1
+Ukraine,Mykolayiv,UKR,UKR,UKR.16_1
+Ukraine,Odessa,UKR,UKR,UKR.17_1
+Ukraine,Poltava,UKR,UKR,UKR.18_1
+Ukraine,Sumy,UKR,UKR,UKR.21_1
+Ukraine,Zaporizhzhya,UKR,UKR,UKR.26_1
+United Arab Emirates,Abu Dhabi,ARE,ARE,ARE.1_1
+United Arab Emirates,Dubai,ARE,ARE,ARE.3_1
+United Arab Emirates,Sharjah,ARE,ARE,ARE.6_1
+United Kingdom,Antrim,GBR,GBR,GBR.2_1
+United Kingdom,Down,GBR,GBR,GBR.2_1
+United Kingdom,East Anglia,GBR,GBR,GBR.1_1
+United Kingdom,East Midlands,GBR,GBR,GBR.1_1
+United Kingdom,Greater London,GBR,GBR,GBR.1_1
+United Kingdom,Newport,GBR,GBR,GBR.4_1
+United Kingdom,"Pitcairn, Henderson, Ducie and Oeno Islands",GBR,GBR,NA
+United Kingdom,South East,GBR,GBR,GBR.1_1
+United Kingdom,South West,GBR,GBR,GBR.1_1
+United Kingdom,West Midlands,GBR,GBR,GBR.1_1
+United Kingdom,Yorkshire and the Humber,GBR,GBR,GBR.1_1
+Uruguay,Canelones,URY,URY,URY.2_1
+Uruguay,Montevideo,URY,URY,URY.10_1
+Uzbekistan,Tashkent,UZB,UZB,UZB.14_1
+Venezuela,Distrito Capital,VEN,VEN,VEN.11_1
+Venezuela,Nueva Esparta,VEN,VEN,VEN.18_1
+Vietnam,Bình Dương,VNM,VNM,VNM.9_1
+Vietnam,Đà Nẵng,VNM,VNM,VNM.19_1
+Vietnam,Đồng Nai,VNM,VNM,VNM.17_1
+Vietnam,Hà Nội,VNM,VNM,VNM.27_1
+Vietnam,Hải Phòng,VNM,VNM,VNM.23_1
+Vietnam,Lào Cai,VNM,VNM,VNM.38_1
+Vietnam,Thanh Hóa,VNM,VNM,VNM.57_1
+Vietnam,Thành phố Hồ Chí Minh,VNM,VNM,NA
+Vietnam,Tuyên Quang,VNM,VNM,VNM.60_1
