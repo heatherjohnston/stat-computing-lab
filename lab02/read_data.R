@@ -81,3 +81,5 @@ measure_cols <- measures_data %>%
   select(who_measure) %>%
   unique()
 
+write.csv(vaccine_data, "vaccine_data.csv")
+
